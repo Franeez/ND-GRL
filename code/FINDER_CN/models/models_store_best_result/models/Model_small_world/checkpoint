@@ -1,0 +1,2 @@
+model_checkpoint_path: "/gs/home/zhangluyu/code2/models/Model_small_world/nrange_30_50_iter_322800.ckpt"
+all_model_checkpoint_paths: "/gs/home/zhangluyu/code2/models/Model_small_world/nrange_30_50_iter_322800.ckpt"

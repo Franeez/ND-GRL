@@ -1,0 +1,2 @@
+model_checkpoint_path: "/gs/home/zhangluyu/code2/models/Model_powerlaw/nrange_30_50_iter_67800.ckpt"
+all_model_checkpoint_paths: "/gs/home/zhangluyu/code2/models/Model_powerlaw/nrange_30_50_iter_67800.ckpt"

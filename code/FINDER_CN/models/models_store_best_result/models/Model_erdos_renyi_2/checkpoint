@@ -1,0 +1,2 @@
+model_checkpoint_path: "/gs/home/zhangluyu/code2/models/Model_erdos_renyi/nrange_30_50_iter_77100.ckpt"
+all_model_checkpoint_paths: "/gs/home/zhangluyu/code2/models/Model_erdos_renyi/nrange_30_50_iter_77100.ckpt"
